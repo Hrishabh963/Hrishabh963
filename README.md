@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrishabh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **React JS,Express JS and Node JS**
 
