@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishabh-kumar-85924a230) 
 
 ## Leetcode:
+![](https://leetcard.jacoblin.cool/Hrishabh963?ext=heatmap)
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Hrishabh963&theme=dark" alt="LeetCode Badges"/>
 
 # 💻 Tech Stack:
